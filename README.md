@@ -1,1 +1,2 @@
 # kb
+some usefull notes
